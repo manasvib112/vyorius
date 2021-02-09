@@ -1,0 +1,24 @@
+.button-component {
+  color: white;
+  background-color: #ff914d;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: 700;
+  margin-right: 5px;
+  cursor: pointer;
+  margin-bottom: 5px;
+  border: none;
+}
+.button-component.big {
+  color: white;
+  background-color: #ff914d;
+  border-radius: 5px;
+  padding: 1rem 3rem;
+  font-weight: 700;
+  border: none;
+}
+.button-component.outline {
+  color: #ff914d;
+  background-color: white;
+  border: 1px solid #ff914d;
+}
